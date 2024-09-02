@@ -1,0 +1,130 @@
+.CatalogPriceDetails {
+  float: right;
+  margin-right: 24px!important;
+}
+
+.Footer {
+  display: flex !important;
+  justify-content: space-between !important;
+  margin-top: 50px;
+  box-shadow: 0px -4px 12px 0px rgba(0, 0, 0, 0.08) !important;
+  padding: 18px 24px !important;
+}
+.IconBtn{
+  padding: 5px!important;
+}
+
+.SubmitBtn {
+  border: 1px solid #C6C8C9 !important;
+  border-radius: 4px !important;
+  background: #C6C8C9 !important;
+  color: #FFF !important;
+  font-family: SF Pro Text, serif!important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+  text-transform: none !important;
+  padding: 9px 16px!important;
+  box-shadow: none!important;
+}
+
+.DraftBtn {
+
+  border: 1px solid #C6C8C9 !important;
+  border-radius: 4px !important;
+  background: var(--last-grey, #F5F5F5) !important;
+  color: var(--another-grey, #868686) !important;
+  font-family: SF Pro Text, serif !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+  text-transform: none !important;
+  padding: 9px 16px!important;
+  box-shadow: none!important;
+}
+
+.BackBtn {
+  box-shadow: none!important;
+  border: 1px solid #C6C8C9 !important;
+  border-radius: 4px !important;
+  background: var(--white, #FFF) !important;
+  color: var(--black, #2E3133) !important;
+  font-family: SF Pro Text, serif !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+  text-transform: none !important;
+  padding: 9px 16px!important;
+}
+
+.AddBtn {
+  text-transform: none !important;
+  color: #0748AE!important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: 20px!important; /* 142.857% */
+  padding:5px!important;
+  margin-bottom: 11px!important;
+}
+
+.TableHeader {
+  color: #2E3133 !important;
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+  padding: 14px 16px !important;
+}
+.RemoveBtn{
+  color: #E8415B!important;
+}
+.TableBody {
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  padding: 4.5px 33px 4.5px 10px !important;
+}
+.Table{
+  //padding: 0 24px!important;
+}
+.catalogUnitDetails{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 24px;
+  margin-bottom: 10px;
+}
+.Header {
+  background: #EFF7FE!important;
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 600 !important;
+  line-height: normal!important;
+}
+
+.DataGrid {
+  color: #2E3133 !important;
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+
+}
+.MarginLeft {
+  padding-left: 19px !important;
+}
+.AlignCenter{
+  display: flex!important;
+  align-items: center!important;
+
+}

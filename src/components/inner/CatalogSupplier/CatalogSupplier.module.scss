@@ -1,0 +1,51 @@
+.CatalogSupplier {
+  padding: 24px!important;
+  padding-top: 0!important;
+  padding-bottom: 0!important;
+  color: var(--black, #2E3133);
+  font-family: Poppins, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.Span{
+  color: var(--red, #E8415B)!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: normal!important;
+}
+.DisplayFlex{
+  display: flex;
+}
+.FormLabel{
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  display: flex;
+}
+.FormControl{
+   width: 70%!important;
+  margin-top: 8px!important;
+  margin-bottom: 32px!important;
+}
+.MarginBottom{
+  margin-bottom: 32px!important;
+}
+
+.FormInput{
+  width: 33%;
+}
+.RadioText{
+  color: var(--black, #2E3133) !important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 400!important;
+  line-height: normal!important;
+}

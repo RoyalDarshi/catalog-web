@@ -1,0 +1,163 @@
+.CatalogGridView {
+  border-radius: 8px!important;
+  border: 1px solid #E2E1E6!important;
+  background: #FFF!important;
+  margin-bottom: 24px!important;
+}
+.CardHeader{
+  display: flex;
+  justify-content: space-between;
+  background: var(--g, rgba(37, 111, 179, 0.08));
+  align-items: center;
+  padding: 15px 16px 14.692px 16px!important;
+}
+.HeaderLink{
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  color: var(--sss, #0748AE) !important;
+  text-decoration: none!important;
+  cursor: pointer!important;
+}
+.ImageLayout{
+  display: flex;
+  align-items: center;
+
+}
+.ImageContainer{
+  width: 30%;
+  height: 70%;
+}
+.Image{
+  width: 80%;
+  height: 70%;
+}
+.FromWidth{
+  width: 100px;
+}
+.DisplayFlex{
+  display: flex!important;
+  align-items: center!important;
+  padding:16px 11px 0 16px!important;
+}
+.ProdMarginTop{
+  margin-top: 16px!important;
+}
+.ProdMarginBottom{
+  margin-bottom: 20px!important;
+  width: 138%;
+}
+.ContMarginBottom{
+  margin-bottom: 16px!important;
+}
+.TitleText{
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+}
+.LabelText{
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 400!important;
+  line-height: normal!important;
+}
+.FloatRight{
+  float: right;
+}
+.Footer{
+  display: flex;
+  padding: 8px 16px;
+  justify-content: space-between!important;
+  align-items: center;
+  border-top: 1px solid var(--second-last-grey, #E0E0E0) !important;
+  background: var(--white, #FFF) !important;
+}
+.AlignItem{
+  display: flex;
+  align-items: center;
+}
+.UnitMrgnRight{
+  margin-right: 8px;
+}
+.BtnMrgnRight{
+  margin-right: 16px;
+}
+.InputLeft{
+  margin-left: 4px!important;
+}
+.Input{
+  border-radius: 4px!important;
+  border: 1px solid var(--second-last-grey, #E0E0E0)!important;
+  background: var(--white, #FFF)!important;
+  display: flex!important;
+  padding: 4px 8px!important;
+  height: 34px!important;
+  width: 75%!important;
+  min-width: 40px!important;
+  justify-content: center!important;
+  align-items: center!important;
+  font-family: SF Pro Text, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  color: var(--neutral-01, #868686) !important;
+}
+.IconContainer{
+  display: flex;
+  align-items: center;
+}
+
+.UnCheckedIcon{
+  color: #AAAAAE!important;
+}
+.CheckedIcon{
+  color: red!important;
+}
+.CancelIcon{
+  color: var(--red, #E8415B) !important;
+}
+.Ellipsis{
+  white-space: nowrap!important;
+  overflow: hidden!important;
+  text-overflow: ellipsis!important;
+}
+.ErrorIcon{
+  color: #FCD12A!important;
+  margin-right: 5px;
+}
+.ImgIcon{
+  width: 20px;
+  height: 20px;
+}
+.Checks{
+  padding:0!important;
+}
+.ContractLink{
+  overflow: hidden!important;
+  color: var(--sss, #0748AE)!important;
+  text-overflow: ellipsis!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  text-decoration: none!important;
+  cursor: pointer!important;
+}
+.BtnBorder{
+  border-radius: 100px!important;
+  border: 2px solid var(--effigo-blue, #012954) !important;
+  background: rgba(1, 41, 84, 0.04) !important;
+  padding: 4px;
+}
+.ThemeColor{
+  color:var(--effigo-blue, #012954) !important;
+}

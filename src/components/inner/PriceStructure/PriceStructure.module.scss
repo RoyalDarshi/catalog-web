@@ -1,0 +1,79 @@
+.PriceStructure {
+  border: none!important;
+}
+.ModalTitle{
+  display: flex;
+  justify-content: space-between;
+  margin: 32px 8px 24px 32px!important;
+}
+.Title{
+  color: var(--misc-blue-primary-effigo, #1C3D72)!important;
+  font-family: Poppins, serif!important;
+  font-size: 20px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: 22px!important;
+}
+.TitleColor{
+   color: #090D0D;
+}
+.TableWidth{
+
+  margin: 0 32px 32px 32px!important;
+}
+.TableMargin{
+  margin-bottom: 40px;
+}
+.Scroll{
+  overflow-y: auto;
+}
+.CellWidth{
+   width: 40%;
+  padding: 11px 0 8px 16px!important;
+}
+.TableBody{
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 400!important;
+}
+.ModalStyle{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  background-color: white;
+  border-radius: 4px;
+
+}
+
+.Header {
+  background: #EFF7FE!important;
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 600 !important;
+  line-height: normal!important;
+}
+
+.DataGrid {
+  color: #2E3133 !important;
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  margin-bottom: 15px;
+}
+.BUName{
+  font-family: Poppins, serif !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+  margin-bottom: 10px!important;
+  background: #EFF7FE;
+  padding: 5px 16px;
+}

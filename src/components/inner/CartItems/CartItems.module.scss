@@ -1,0 +1,173 @@
+.CartItems {
+  margin-bottom: 24px;
+  border-radius: 8px!important;
+  border: 1px solid #E2E1E6!important;
+  background: #FFF!important;
+  box-shadow: none;
+}
+.HeadingSize{
+  font-size: 16px!important;
+  font-weight: 600!important;
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-style: normal!important;
+  line-height: normal!important;
+}
+.Image{
+  width: 70%!important;
+  height: 80%!important;
+  flex-shrink: 0!important;
+}
+.TextSize{
+  font-size: 16px!important;
+  font-weight: 400!important;
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-style: normal!important;
+  line-height: normal!important;
+}
+.CardHeader{
+  display: flex!important;
+  justify-content: space-between!important;
+  background-color: rgba(37, 111, 179, 0.08)!important;
+  align-items: center!important;
+  padding: 15px 24px 14px 24px!important;
+}
+.ProdName{
+  color: var(--sss, #0748AE)!important;
+  font-style: normal!important;
+  font-size: 16px!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  align-items: flex-start!important;
+  font-family: Poppins, serif !important;
+
+}
+.DeleteBtn{
+  padding: 9px 16px!important;
+  border-radius: 4px!important;
+  border: 1px solid var(--red, #E8415B) !important;
+  background: var(--red, #E8415B) !important;
+  color: var(--white, #FFF) !important;
+  font-family: Poppins, serif !important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  display: inline-flex;
+  text-transform: none!important;
+}
+.DeleteBtn:disabled{
+  background: #EFF7FE!important;
+  color: #868686!important;
+  border: 1px solid var(--stroke-1, #CFD6DE) !important;
+  pointer-events: auto! important;
+  cursor: not-allowed!important;
+}
+.ProdDetails{
+  display: flex!important;
+  align-items: center!important;
+}
+.BodyHead{
+  width: 100%!important;
+  display: flex!important;
+  justify-content: space-between!important;
+  margin-top: 24px;
+}
+.DescMargin{
+  margin-bottom: 24px!important;
+  margin-top: 24px!important;
+}
+.CartFooter{
+  border-top: 1px solid var(--second-last-grey, #E0E0E0) !important;
+  background: var(--white, #FFF) !important;
+  display: flex!important;
+  justify-content: space-between!important;
+  padding: 14px 24px!important;
+}
+.ProdNameLink{
+  text-decoration: none!important;
+  color: var(--sss, #0748AE)!important;
+  cursor: pointer;
+}
+.ErrIcon{
+  font-size:15px!important;
+  margin-left: 8px!important;
+}
+.GridWidth{
+  width: 80%;
+}
+.CartImg{
+  width: 20%!important;
+  height: 119px!important;
+  //padding: 14.571px 27.578px 14.571px 28.389px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px!important;
+  border: 1px solid #AAAAAE!important;
+  margin-right: 2%;
+}
+.CardActionArea{
+  display: flex;
+  align-items: center;
+}
+.CardBody{
+  padding: 24px 32px 24px 24px!important;
+}
+.MOQ{
+  display: flex!important;
+  align-items: center!important;
+}
+.ProdNameHeight{
+  width: 180px!important;
+  margin-right: 15px!important;
+}
+.Float{
+  float: right!important;
+}
+.DisplayFlex{
+  display: flex!important;
+  align-items: center!important;
+}
+.QtyMargin{
+  margin-right: 32px!important;
+}
+.Ellipsis{
+  width:100%;
+  white-space: nowrap!important;
+  overflow: hidden!important;
+  text-overflow: ellipsis!important;
+}
+.Input{
+  border-radius: 4px!important;
+  margin-left: 16px;
+  border: 1px solid var(--second-last-grey, #E0E0E0) !important;
+  background: var(--white, #FFF) !important;
+  padding: 5px 8px 6px 8px!important;
+  margin-right: 24px;
+  width: 77px!important;
+  height: 35px!important;
+  font-family: SF Pro Text, serif!important;
+  font-size: 16px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  color: var(--neutral-01, #868686) !important;
+}
+
+.TotalPrice{
+  float: right!important;
+}
+.PriceMargin{
+  margin-bottom: 24px!important;
+}
+.PriceColor{
+  color: #012954!important;
+}
+.Divider{
+  margin-top: 10px!important;
+}
+.CatalogColor{
+  color: var(--sss, #0748AE) !important;
+}

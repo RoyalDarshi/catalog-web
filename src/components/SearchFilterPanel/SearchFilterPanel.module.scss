@@ -1,0 +1,20 @@
+.SearchFilterPanel {
+  margin-left: 10px;
+  background-color: whitesmoke;
+}
+.RowStyle{
+  display:flex;
+  flex-wrap:wrap;
+}
+.ColStyle{
+  display:grid;
+  width:33%;
+}
+.FormControl{
+  margin-top: 20px;
+  min-width: 100px ;
+  width:70%;
+}
+.Button{
+  text-transform: none!important;
+}

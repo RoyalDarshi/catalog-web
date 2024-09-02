@@ -1,0 +1,95 @@
+.TopPagePath {
+    display: flex!important;
+    align-items: center!important;
+    color: #2E3133!important;
+    text-align: center!important;
+    font-family: Poppins, serif!important;
+    font-size: 20px!important;
+    font-style: normal!important;
+    font-weight: 600!important;
+    line-height: normal!important;
+}
+.PageLink{
+    text-decoration: none!important;
+    color: #0748AE!important;
+    font-family: Poppins, serif!important;
+    font-size: 20px!important;
+    font-style: normal!important;
+    font-weight: 600!important;
+    line-height: normal!important;
+    cursor: pointer!important;
+}
+.Btn{
+    border-radius: 4px !important;
+    border: 1px solid  !important;
+    font-family: Poppins, serif!important;
+    font-size: 14px !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    line-height: normal !important;
+    text-transform: none !important;
+    padding: 9px 16px!important;
+    box-shadow: none!important;
+}
+.Btn:disabled{
+    pointer-events: auto! important;
+    cursor: not-allowed!important;
+}
+.LinkBtn{
+    font-family: Poppins, serif!important;
+    color: #0748AE!important;
+    font-weight: 600!important;
+    font-size: 14px!important;
+    font-style: normal!important;
+    line-height: normal!important;
+    border-radius: 4px;
+    padding: 5px 16px;
+    text-transform: none!important;
+}
+.LinkBtn:disabled{
+    color: #999!important;
+    pointer-events: auto! important;
+    cursor: not-allowed!important;
+}
+.UploadBtn {
+    color: #0748AE !important;
+    text-transform: none !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    font-family: Poppins, serif !important;
+    font-style: normal !important;
+    line-height: normal !important;
+}
+.UploadBtn:disabled{
+    color: #C6C8C9!important;
+    pointer-events: auto! important;
+    cursor: not-allowed!important;
+}
+.FormLabel{
+    color: #2E3133!important;
+    font-family: Poppins, serif!important;
+    font-size: 12px!important;
+    font-style: normal!important;
+    font-weight: 600!important;
+    line-height: normal!important;
+    display: flex;
+}
+.SelectText{
+    font-family: "Poppins", "serif" !important;
+    font-size: 14px!important;
+    font-style: normal!important;
+    font-weight: 400!important;
+    line-height: normal!important;
+    color: #090D0D!important;
+    white-space: nowrap!important;
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+}
+.MenuItem {
+    color: #909194 !important;
+    font-family: Poppins, serif !important;
+    font-size: 12px !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    line-height: normal !important;
+}

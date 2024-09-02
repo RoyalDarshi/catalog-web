@@ -1,0 +1,40 @@
+.InfoReqDialog {}
+.ModalStyle{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  border-radius: 4px;
+  background: #FFF;
+
+}
+
+.ModalHeader{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 32px 10px 24px 32px;
+}
+.ModalTitle{
+  color: var(--black, #2E3133) !important;
+  font-family: Poppins, serif !important;
+  font-size: 20px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+}
+.ListMargin{
+  margin: 0 32px;
+}
+.TextField{
+  margin: 32px;
+}
+.Footer {
+  justify-content: flex-end;
+  margin-top: 10%;
+  box-shadow: 0px -4px 12px 0px rgba(0, 0, 0, 0.08);
+  padding: 18px 32px;
+  background: #FFF;
+
+}

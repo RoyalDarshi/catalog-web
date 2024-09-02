@@ -1,0 +1,418 @@
+.CatalogItem {
+  padding: 24px!important;
+  padding-top: 0!important;
+  padding-bottom: 0!important;
+}
+.PagePadding{
+  position: sticky;
+  top:0;
+  background-color: #ffffff;
+  z-index: 100;
+  padding-top: 24px;
+  padding-bottom: 10px;
+  margin: 0 0 14px 24px;
+}
+.Span{
+  color: var(--red, #E8415B)!important;
+  font-family: "Poppins", "serif" !important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: normal!important;
+}
+.RowItem{
+  display: flex!important;
+}
+.InputItem{
+  width: 33%!important;
+  margin-bottom: 32px!important;
+}
+.FormCtrl{
+  margin-top: 8px!important;
+  min-width: 30px!important;
+  width: 70%!important;
+}
+
+
+.FirstTextArea{
+
+  margin-right:10%!important;
+  margin-top: 8px!important;
+}
+.SecTextArea{
+  margin-top: 8px!important;
+}
+.TextAreaWidth{
+  width: 37%!important;
+  margin-bottom: 32px!important;
+}
+
+.CatalogSupplier {
+  padding: 24px!important;
+  padding-top: 0!important;
+  padding-bottom: 0!important;
+  color: var(--black, #2E3133);
+  font-family: Poppins, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.Span{
+  color: var(--red, #E8415B)!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: normal!important;
+}
+.DisplayFlex{
+  display: flex;
+}
+.FormLabel{
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  display: flex;
+
+}
+.CatalogWidth{
+  width: 190px;
+}
+.FormControl{
+  width: 70%!important;
+  margin-top: 8px!important;
+  margin-bottom: 32px!important;
+}
+.MarginBottom{
+  margin-bottom: 32px!important;
+}
+
+
+.FormInput{
+  display: grid;
+  width: 33%;
+}
+.RadioText{
+  color: var(--black, #2E3133) !important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 400!important;
+  line-height: normal!important;
+}
+.CatalogContent {
+  padding-left: 24px !important;
+}
+.CatalogHeader {
+  display: flex;
+  align-items: center;
+
+}
+.HeaderWidth{
+  width: 200px;
+}
+.MarginBottom{
+  margin-bottom: 15px;
+}
+.UploadBtn {
+  color: var(--sss, #0748AE) !important;
+  font-family: Poppins, serif !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: 22px !important;
+  /* 157.143% */
+  text-transform: capitalize !important;
+  padding: 0 !important;
+  text-decoration: none!important;
+  display: flex;
+  align-items: center;
+}
+
+.Popup {
+  display: flex;
+  padding: 9px 16px !important;
+  align-items: center;
+  width: 238px;
+  justify-content: space-between;
+  border-radius: 4px;
+  border: 1px solid var(--new-stroke-for-all-except-buttons, #AAAAAE);
+  background: var(--misc-white-effigo, #FFF);
+  margin-right: 15px;
+}
+.Popup:hover{
+  border: 1.5px solid var(--misc-blue-primary-effigo, #1C3D72);
+  background: rgba(28, 61, 114, 0.08);
+}
+.PopupTitle {
+  color: var(--misc-blue-primary-effigo, #1C3D72) !important;
+  font-family: SF Pro Text,serif !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: 22px !important;
+  /* 157.143% */
+}
+
+.CloseIcon {
+  color: #171B26 !important;
+  cursor: pointer;
+  font-size: 16px !important;
+}
+
+.AddDoc {
+  display: flex;
+  align-items: center;
+  width: 20%;
+  justify-content: space-between;
+}
+.CatalogImg {
+  display: flex;
+  align-items: center;
+  width: 20%;
+  justify-content: space-between;
+}
+.UploadNote {
+  color: #909194 !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  font-family: Poppins, serif !important;
+}
+.MarginTop{
+  margin-top: 20px;
+}
+.Span {
+  color: var(--red, #E8415B);
+  font-family: Poppins, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.CatalogLabel {
+  width: 180px;
+  display: grid;
+  align-items: center;
+}
+.BtnView {
+  display: grid;
+}
+
+.FileName {
+  max-width: 100px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.DisplayFlex {
+  display: flex;
+  margin-bottom: 16px !important;
+}
+
+.MarginRight {
+  margin-right: 8px !important;
+}
+.AlignItems{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.IconGap{
+  margin-right: 8px;
+}
+.Footer {
+  display: flex !important;
+  justify-content: space-between !important;
+  margin-top: 50px;
+  box-shadow: 0px -4px 12px 0px rgba(0, 0, 0, 0.08) !important;
+  padding: 18px 24px !important;
+}
+
+.ColRed {
+  color: var(--red, #E8415B) !important;
+}
+
+.InputForm {
+  display: grid !important;
+  width: 33% !important;
+}
+
+
+
+.FormControls {
+  width: 70% !important;
+}
+
+.Table {
+  text-align: center !important;
+  text-wrap: none !important;
+  font-family: Poppins, serif !important;
+}
+
+.TableHead {
+  color: var(--black, #2E3133) !important;
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+  background: #EFF7FE !important;
+}
+
+.TableBody {
+  align-items: center !important;
+  color: #909194 !important;
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+}
+
+.TextField {
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  margin: 0 !important;
+  border-radius: 4px !important;
+  width: 75%!important;
+  border: 1px solid #AAAAAE!important;
+  background-color: transparent!important;
+  padding-left: 5px!important;
+  height: 27px!important;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #909194;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #909194;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #909194;
+}
+
+
+.HeadRow {
+  font-family: Poppins, serif !important;
+  color: var(--black, #2E3133) !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+
+}
+
+.BodyRow {
+  color: #909194 !important;
+  font-family: "Poppins", "serif" !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  align-items: center !important;
+  padding: 5px!important;
+  padding-left: 17px !important;
+}
+
+.Row {
+  align-items: center !important;
+}
+
+.ModalTitle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 4px 0 24px;
+}
+
+.AddBtn {
+  text-transform: none !important;
+  color: #0748AE !important;
+  font-family: Poppins, serif !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: 20px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  /* 142.857% */
+}
+.TableContainer{
+  padding: 24px;
+}
+
+.RemoveBtn {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.AddIcon {
+  font-size: 14px !important;
+}
+
+.Select {
+  min-width: 100px !important;
+  color: #090D0D !important;
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  height: 27px!important;
+}
+
+.MenuItem {
+  color: #909194 !important;
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+}
+
+.ModalHeader {
+  color: var(--black, #2E3133) !important;
+  font-family: Poppins, serif !important;
+  font-size: 20px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+}
+.Header {
+  background: #EFF7FE!important;
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 600 !important;
+  line-height: normal!important;
+}
+
+.DataGrid {
+  color: #2E3133 !important;
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+
+}
+.MarginLeft {
+  padding-left: 19px !important;
+}
+.AlignCenter{
+  display: flex!important;
+  align-items: center!important;
+
+}

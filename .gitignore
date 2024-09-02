@@ -1,0 +1,37 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/dist
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.idea/jsLibraryMappings.xml
+/dist/
+.idea/workspace.xml
+.idea/shelf/Upload_files_linked/shelved.patch
+.idea/shelf/Upload_files_linked.xml
+.idea/shelf/Uncommitted_changes_before_Update_at_07-09-2023_00_33__Changes_.xml
+.idea/shelf/Uncommitted_changes_before_Update_at_07-09-2023_00_33_\[Changes\]/shelved.patch
+.idea/shelf/Changes/shelved.patch
+.idea/shelf/Changes.xml
+.idea/shelf/added_logger_checker_for_cleaning_up_console_log_statements/shelved.patch
+.idea/shelf/added_logger_checker_for_cleaning_up_console_log_statements.xml
+.idea/shelf/Uncommitted_changes_before_Checkout_at_29-09-2023_13_21_\[Changes\]/shelved.patch
+.idea/shelf/Uncommitted_changes_before_Checkout_at_29-09-2023_13_21__Changes_.xml

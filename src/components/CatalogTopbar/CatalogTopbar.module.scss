@@ -1,0 +1,44 @@
+
+.CatalogTopBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 600!important;
+
+}
+.Svg{
+  margin-right: 8px;
+}
+.TopBarIcon{
+  display: flex;
+  color: #0748AE!important;
+  font-weight: 600!important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  align-items: center;
+}
+.Header{
+  color: var(--black, #2E3133)!important;
+  text-align: center;
+  font-family: Poppins, serif!important;
+  font-size: 20px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal;
+}
+.AddCatalog{
+  font-family: Poppins, serif!important;
+  color: #0748AE!important;
+  font-weight: 600!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  line-height: normal!important;
+  border-radius: 4px;
+  padding: 5px 16px;
+  text-transform: none!important;
+}
+
+.BtnMargin{
+  display: flex;
+  margin-left: 16px;
+}

@@ -1,0 +1,176 @@
+.CatalogCardView{
+  border-radius: 8px!important;
+  border: 1px solid #E2E1E6!important;
+  background: #FFF!important;
+  box-shadow: none!important;
+  margin-bottom: 24px!important;
+}
+.CardHeader{
+  display: flex!important;
+  padding: 20px 24px!important;
+  justify-content: space-between!important;
+  background-color: rgba(37, 111, 179, 0.08)!important;
+  color: var(--sss, #0748AE)!important;
+  align-items: center!important;
+}
+.CardCheckBox{
+  display: flex!important;
+  align-items: center!important;
+
+}
+.HeartUnCheck{
+  color:#AAAAAE!important;
+}
+.HeartChecked{
+  color: red!important;
+}
+.CardActionArea{
+  display: flex!important;
+  margin-bottom: 32px!important;
+}
+.GridWidth{
+  width: 80%;
+}
+.CardImage{
+  width: 20%!important;
+  height: 119px!important;
+  //padding: 14.571px 27.578px 14.571px 28.389px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px!important;
+  border: 1px solid #AAAAAE!important;
+  margin-right: 4%;
+}
+.Image{
+  width: 70%;
+  height: 80%;
+}
+.CardBody{
+  padding: 24px 32px 32px 24px;
+}
+.HeadingSize{
+  font-size: 16px!important;
+  font-weight: 600!important;
+  font-family: Poppins, serif!important;
+  color: var(--black, #2E3133) !important;
+  font-style: normal!important;
+  line-height: normal!important;
+}
+.TextSize{
+  font-size: 16px!important;
+  font-weight: 400!important;
+  font-family: Poppins, serif!important;
+  color: var(--black, #2E3133) !important;
+  font-style: normal!important;
+  line-height: normal!important;
+}
+.CardHeading{
+  color: var(--sss, #0748AE)!important;
+  font-family: Poppins, serif!important;
+  font-style: normal!important;
+  font-size: 16px!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  align-items: flex-start!important;
+}
+.Ellipsis{
+  white-space: nowrap!important;
+  overflow: hidden!important;
+  text-overflow: ellipsis!important;
+}
+.ImageLayer{
+  display: inline-flex!important;
+  //justify-content: space-between!important;
+}
+.HeadingColor{
+  color: var(--sss, #0748AE)!important;
+}
+
+.CardDescription{
+  margin-bottom: 24px!important;
+}
+
+.DescFooter{
+  display: flex!important;
+  justify-content: space-between!important;
+}
+.CardFooter{
+  display: flex!important;
+  justify-content: space-between!important;
+  padding: 14px 24px!important;
+  border-top: 1px solid var(--second-last-grey, #E0E0E0);
+  background: var(--white, #FFF);
+}
+.FooterPrice{
+  float: right!important;
+}
+.Qty{
+  margin-right:24px!important;
+}
+.Unit{
+  margin-right: 32px!important;
+}
+.Input{
+  margin-left: 16px!important;
+  border-radius: 4px!important;
+  border: 1px solid var(--second-last-grey, #E0E0E0) !important;
+  background: var(--white, #FFF) !important;
+  padding: 5px 8px 6px 8px!important;
+  width: 77px!important;
+  height: 35px!important;
+  font-family: SF Pro Text, serif!important;
+  font-size: 16px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  color: var(--neutral-01, #868686) !important;
+}
+.MoqIcon{
+  font-size: 15px!important;
+  margin-left: 8px!important;
+}
+.Checks{
+  padding: 0;
+}
+.ErrorIcon{
+  color: #FCD12A!important;
+  margin-right: 5px;
+}
+.CancelIcon{
+  color: var(--red, #E8415B) !important;
+  margin-right: 5px;
+}
+.ImgIcon{
+  width: 20px;
+  height: 20px;
+}
+.ApproveIcon{
+  color: #009C05;
+}
+.FooterBtn{
+  float: right!important;
+
+}
+
+.Link{
+  cursor: pointer;
+  color: var(--sss, #0748AE)!important;
+  text-decoration: none!important;
+}
+.MarginBottom{
+  margin-bottom: 24px!important;
+}
+.MaxMarginBottom{
+  margin-bottom: 32px!important;
+}
+.MarginTop{
+  margin-top: 24px!important;
+}
+.DisplayFlex{
+  display: flex;
+  align-items: center;
+}
+.ThemeColor{
+  color: #012954!important;
+}

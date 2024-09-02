@@ -1,0 +1,17 @@
+.PanelBadgeComponent {
+  color: #FFF;
+  font-family: Poppins, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  border-radius: 20px;
+  background: var(--green, #47C746);
+  height:22px;
+  align-items: center;
+  width:100%;
+  padding: 5px;
+  justify-content: center;
+  display:flex;
+  margin-left: 15px;
+}

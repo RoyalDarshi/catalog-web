@@ -1,0 +1,69 @@
+.CatalogItem {
+  padding: 24px!important;
+  padding-top: 0!important;
+  padding-bottom: 0!important;
+}
+.Span{
+  color: var(--red, #E8415B)!important;
+  font-family: "Poppins", "serif" !important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: normal!important;
+}
+.RowItem{
+  display: flex!important;
+}
+.InputItem{
+  width: 33%!important;
+  margin-bottom: 32px!important;
+}
+.FormCtrl{
+  margin-top: 8px!important;
+  min-width: 30px!important;
+  width: 70%!important;
+}
+.FormLabel{
+  color: var(--black, #2E3133)!important;
+  font-family: "Poppins", "serif" !important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  display: flex!important;
+}
+
+.FirstTextArea{
+
+  margin-right:10%!important;
+  margin-top: 8px!important;
+}
+.SecTextArea{
+  margin-top: 8px!important;
+}
+.TextAreaWidth{
+  width: 37%!important;
+  margin-bottom: 32px!important;
+}
+.TopPagePath{
+  display: flex!important;
+  align-items: center!important;
+  color: var(--black, #2E3133)!important;
+  text-align: center!important;
+  font-family: Poppins, serif!important;
+  font-size: 20px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  padding-bottom: 15px!important;
+}
+.PageLink{
+  text-decoration: none!important;
+  color: var(--sss, #0748AE)!important;
+  font-family: Poppins, serif!important;
+  font-size: 20px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  cursor: pointer!important;
+}

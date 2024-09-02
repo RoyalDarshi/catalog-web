@@ -1,0 +1,122 @@
+/*
+.CatalogTableView {
+  min-width: 50px!important;
+  text-align: center!important;
+
+  font-family: "Pupins", serif !important;
+}
+.TableHead{
+  color: var(--black, #2E3133)!important;
+  font-family: "Poppins", serif !important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: normal!important;
+
+}
+.TableBody{
+  align-items: center!important;
+  color: var(--black, #2E3133)!important;
+  font-family: "Poppins", serif !important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 400!important;
+  line-height: normal!important;
+}
+.Location{
+  width: 130px!important;
+  justify-content: center!important;
+  display: block!important;
+  overflow: hidden!important;
+  text-overflow: ellipsis!important;
+  text-wrap: none!important;
+  white-space: nowrap!important;
+
+}
+.AlignLeft{
+  align-content: start!important;
+}
+.IconSize{
+  font-size: large;
+}*/
+.LinkStyle {
+  text-decoration: none !important;
+  color: #0748AE !important;
+  font-family: "Poppins", serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  cursor: pointer !important;
+}
+
+.Header {
+  background: #EFF7FE!important;
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 600 !important;
+  line-height: normal!important;
+}
+
+.DataGrid {
+  color: #2E3133 !important;
+  font-family: Poppins, serif !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  width: 100%;
+}
+.Input{
+  margin-left: 16px!important;
+  border-radius: 4px!important;
+  border: 1px solid var(--second-last-grey, #E0E0E0) !important;
+  padding: 5px 8px 3px 8px!important;
+  width: 77px!important;
+  height: 35px!important;
+  font-family: SF Pro Text, serif!important;
+  font-size: 16px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  color: var(--neutral-01, #868686) !important;
+}
+.QtyMargin{
+  padding-left: 25px!important;
+}
+.MOQ{
+  margin-left: 8px!important;
+}
+.ThemeColor {
+  color: #012954 !important;
+}
+.RedColor{
+  color: red!important;
+}
+
+.MarginLeft {
+  padding-left: 18px !important;
+}
+.AlignCenter{
+  display: flex!important;
+  align-items: center!important;
+
+}
+.Checks{
+  padding: 0;
+}
+.ErrorIcon{
+  color: #FCD12A!important;
+  margin-left: 15px !important;
+  margin-right: 5px;
+}
+.ImgIcon{
+  width: 20px;
+  height: 20px;
+}
+.CancelIcon{
+  color: var(--red, #E8415B) !important;
+  margin-left: 15px !important;
+}

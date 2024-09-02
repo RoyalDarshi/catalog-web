@@ -1,0 +1,30 @@
+.Popup {}
+.ModelStyle{
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.08) !important;
+}
+.ModelHeader{
+  display: flex;
+  justify-content: space-between;
+  background-color:#EEFBF6;
+  margin: 0;
+  border-top:2px solid #47C746;
+  padding: 8px 16px!important;
+}
+.ModelTitle{
+  color: var(--black, #2E3133);
+  text-align: center;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: 22px!important; /* 157.143% */
+}
+.CloseIcon{
+  cursor: pointer!important;
+}

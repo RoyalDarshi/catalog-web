@@ -1,0 +1,65 @@
+.ApprovedStatus {
+  margin: 0 24px 25px 24px;
+  border-radius: 4px;
+  border: 1px solid #E2E1E6;
+  background: var(--white, #FFF);
+}
+.MarginLeft{
+  margin-left: 10px;
+}
+.AccordionSummery{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  border-radius: 3px 3px 0 0!important;
+  background: var(--last-grey, #F5F5F5)!important;
+  align-items: center!important;
+}
+.Approved{
+  color: #009C05!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: normal!important;
+}
+.Pending{
+  color: #EFC72A!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: normal!important;
+}
+.AccordionDetails{
+  width: 45%;
+}
+.Stepper{
+  margin-top: 20px!important;
+}
+.TitleText{
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: normal!important;
+}
+.TitleLabel{
+  color: #2E3133!important;
+  font-family: Poppins, serif!important;
+  font-size: 12px!important;
+  font-style: normal!important;
+  font-weight: 700!important;
+  line-height: normal!important;
+}
+
+.AccordionHeader{
+  color: var(--black, #2E3133)!important;
+  font-family: Poppins, serif!important;
+  font-size: 16px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: normal!important;
+  margin-left: 10px!important;
+}

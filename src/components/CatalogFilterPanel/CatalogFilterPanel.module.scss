@@ -1,0 +1,130 @@
+.CatalogFilterPanel {
+  font-family: "Poppins", "serif" !important;
+  padding-top: 16px;
+  border-top: 1px solid #CFD7DF;
+  box-shadow: none;
+
+}
+
+.ItemMainContainer {
+  display: flex !important;
+  flex-wrap: wrap;
+}
+
+
+.BoxWidth {
+  min-width: 110px;
+}
+
+.FormControl {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 75%;
+}
+
+.RowDisplay {
+  display: grid;
+  width: 27%;
+  padding-top: 24px;
+}
+
+.AccordionHeader {
+  font-family: Poppins, serif !important;
+  color:  #2E3133 !important;
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: normal !important;
+  align-items: center !important;
+}
+
+.ItemTitle {
+  font-family: Poppins, serif !important;
+  color: #2E3133 !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size-adjust: none;
+  line-height: normal !important;
+  margin-bottom: 8px!important;
+}
+
+.RadioTitle {
+  font-family: Poppins, serif !important;
+  color:  #2E3133 !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: 18px !important;
+  /* 150% */
+}
+
+.RadioItem {
+  font-family: Poppins, serif !important;
+  color:  #2E3133 !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+}
+.MarginTop{
+  margin-top: 32px;
+}
+.Input {
+  font-family: Poppins, serif !important;
+  height: 32px !important;
+  width: 100%;
+  color: #090D0D !important;
+
+  border-radius: 4px !important;
+  border: 1px solid #AAAAAE !important;
+  background: var(--gray-gray-1, #FFF) !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 20px !important;
+  /* 142.857% */
+}
+.AccordionColor{
+  background-color: WhiteSmoke;
+}
+.SelectText{
+  font-family: Poppins, serif !important;
+  color: #090D0D !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 20px !important;
+}
+.InputLabel {
+  font-family: Poppins, serif !important;
+  color: #AAAAAE !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 20px !important;
+  /* 142.857% */
+}
+
+.MenuItem {
+  font-family: Poppins, serif !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 20px !important;
+  color: #AAAAAE !important;
+  /* 142.857% */
+}
+
+.AccordionSummaryEle {
+  font-family: Poppins, serif !important;
+  width: 100% !important;
+  display: flex !important;
+  align-items: center!important;
+  justify-content: space-between !important;
+}
+
+.BadgeComp {
+  display: flex;
+  align-items: center;
+}

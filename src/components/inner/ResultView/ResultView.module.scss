@@ -1,0 +1,58 @@
+.ResultView{
+  
+
+}
+.ChangeViewIcon{
+  float: right;
+  display: flex;
+}
+.ResultItem{
+
+}
+
+.ViewChangeRow{
+  height: 40px;
+}
+
+.CheckBoxLabel{
+  color: var(--black, #2E3133) !important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  line-height: 22px!important; /* 157.143% */
+}
+.BtnPadding{
+  padding-top: 13px!important;
+  padding-bottom: 13px!important;
+}
+.Btn{
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 600!important;
+  color: #0748AE!important;
+  text-transform: none!important;
+  line-height: 22px!important;
+}
+.MenuItem{
+  color: var(--black, #2E3133) !important;
+  font-family: Poppins, serif!important;
+  font-size: 14px!important;
+  font-style: normal!important;
+  font-weight: 500!important;
+  line-height: normal!important;
+  padding: 4px 8px!important;
+  border-radius: 3px!important;
+  
+}
+.MenuItem:hover{
+  background-color: #EEF4F9!important;
+}
+.ChangeView{
+  border-radius: 100px!important;
+  border: 1px solid !important;
+  background: rgba(207, 214, 222, 0.24)!important;
+  font-size: 14px!important;
+  padding: 1px!important;
+}

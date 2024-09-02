@@ -1,0 +1,192 @@
+.UploadImage {
+
+}
+.ModalStyle{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  border-radius: 4px;
+  background: #FFF;
+
+}
+.Scroll{
+  overflow-y: auto;
+}
+.ModalHeader{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 32px 10px 24px 32px;
+}
+.Margin {
+  margin: 0 32px;
+}
+.NoteBox{
+  border-radius: 4px;
+  border: 1px solid var(--neutrals-06, #F5F5F5);
+  background: #F3F4F8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 32px 24px 32px;
+}
+.Popup {
+  display: flex;
+  padding: 9px 16px !important;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid var(--new-stroke-for-all-except-buttons, #AAAAAE);
+  background: var(--misc-white-effigo, #FFF);
+  border-bottom: 1px solid #E2E1E6;
+  background: var(--g, rgba(37, 111, 179, 0.08));
+}
+
+.PopupTitle {
+  color: var(--misc-blue-primary-effigo, #1C3D72) !important;
+  font-family: Poppins, serif !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: 22px !important;
+  /* 157.143% */
+}
+
+.CloseIcon {
+  color: #171B26 !important;
+  cursor: pointer;
+  font-size: 16px !important;
+}
+
+.AlignItem {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.PopupContainer {
+  border-radius: 4px;
+  border: 1px solid #E2E1E6;
+  width: 25%;
+  margin-right: 16px;
+  margin-bottom: 16px;
+  background: var(--misc-white-effigo, #FFF);
+}
+
+.ImgCenter {
+  display: flex;
+  justify-content: center;
+  margin: 8px;
+}
+
+.UploadedImage {
+  width: 112px !important;
+  height: 112px !important;
+}
+
+.FileName {
+  max-width: 100px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ModalTitle{
+  color: var(--black, #2E3133) !important;
+  font-family: Poppins, serif !important;
+  font-size: 20px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+}
+.UploadBox{
+  border-radius: 4px;
+  border: 1px solid var(--ew-stroke-for-all-except-buttons, #AAAAAE);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 32px;
+}
+.UploadBtns{
+  color: #0748AE!important;
+  text-transform: none!important;
+  font-size: 14px!important;
+  font-weight: 500!important;
+  font-family: Poppins, serif!important;
+  font-style: normal!important;
+  line-height: normal!important;
+}
+.UploadNote{
+  color: var(--black, #2E3133) !important;
+  font-family: Poppins, serif !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  padding: 26px!important;
+}
+.Footer{
+  background: #FFF;
+  box-shadow: 0px -4px 12px 0px rgba(0, 0, 0, 0.08);
+  margin-top: 50px!important;
+  padding: 19px 32px!important;
+  display: flex!important;
+  align-items: center!important;
+  justify-content: flex-end!important;
+}
+.FloatRight{
+  float: right!important;
+}
+.DisplayFlex{
+  display: flex!important;
+  align-items: center!important;
+  flex-wrap: wrap;
+}
+.UploadBtn{
+  border-radius: 4px !important;
+  border: 1px solid #C6C8C9 !important;
+  font-family: SF Pro Text, serif !important ;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+  box-shadow: none!important;
+  display: flex;
+  text-transform: capitalize!important;
+}
+.DisplayNone{
+  display: none;
+}
+.UploadLabel{
+  color: var(--sss, #0748AE);
+  font-family: Poppins, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+@media (min-height: 400px) {
+  .Height {
+    height: 70px;
+    margin-bottom: 70px;
+  }
+  .MedHeight{
+    height: 150px;
+  }
+}
+@media (min-height: 600px) {
+  .Height {
+    height: 100px;
+    margin-bottom: 100px;
+  }
+  .MedHeight{
+    height: 250px;
+  }
+}
+@media  (min-height:700px ) {
+  .Height{
+    height: 150px;
+    margin-bottom: 150px;
+  }
+  .MedHeight{
+    height: 300px;
+  }}
